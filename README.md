@@ -1,7 +1,7 @@
 ### Olá, eu sou o Bruno! 👾
-🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
+            🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
 
-![brunoo30 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical)
+ ![brunoo30 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&hide_progress=true)
