@@ -6,6 +6,7 @@
 
 
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
+
 [![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-12a78a214)
 [![Intagram](		https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoo46_/)
 
