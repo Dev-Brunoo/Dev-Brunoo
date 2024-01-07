@@ -4,8 +4,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical&width=400" alt="brunoo30 GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&layout=compact" alt="Top Langs" height="180" />
 
-
-
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
 
 [![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-12a78a214)
