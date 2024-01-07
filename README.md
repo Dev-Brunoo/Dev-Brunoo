@@ -4,6 +4,7 @@
 <p>𝑺𝒐𝒖 𝒖𝒎 𝒆𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄̧𝒂̃𝒐 𝒆𝒎 𝒃𝒖𝒔𝒄𝒂 𝒅𝒆 𝒂𝒑𝒓𝒊𝒎𝒐𝒓𝒂𝒓 𝒎𝒆𝒖𝒔 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical&width=400" alt="brunoo30 GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&layout=compact" alt="Top Langs" height="180" />
+<h1></h1>
 
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
 
@@ -11,5 +12,7 @@
 [![Intagram](		https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoo46_/)
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<h1></h1>
 
