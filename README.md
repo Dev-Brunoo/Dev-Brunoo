@@ -1,7 +1,10 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/brunoo30/brunoo30/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 ### Olá, eu sou o Bruno! 👾
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+</div>
 
 ![brunoo30 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&layout=donut)](https://github.com/brunoo30/github-readme-stats)
 
