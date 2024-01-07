@@ -9,6 +9,7 @@
 [![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-12a78a214)
 [![Intagram](		https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoo46_/)
 
+[![Snake animation](https://github.com/brunoo30/brunoo30/blob/output/github-contribution-grid-snake.svg)](https://github.com/brunoo30)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
