@@ -2,7 +2,7 @@
 
 <p>𝑺𝒐𝒖 𝒖𝒎 𝒆𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄̧𝒂̃𝒐 𝒆𝒎 𝒃𝒖𝒔𝒄𝒂 𝒅𝒆 𝒂𝒑𝒓𝒊𝒎𝒐𝒓𝒂𝒓 𝒎𝒆𝒖𝒔 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔.</p>
 
-![brunoo30 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&layout=compact&width=400)](https://github.com/brunoo30/github-readme-stats)
+![brunoo30 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoo30&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo30&layout=compact&width=700)](https://github.com/brunoo30/github-readme-stats)
 
 
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
