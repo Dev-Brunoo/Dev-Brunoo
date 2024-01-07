@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="https://github.com/brunoo30/brunoo30/blob/main/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd.png" />
 
 <h1>𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑩𝒓𝒖𝒏𝒐! 👾</h1> 
 
