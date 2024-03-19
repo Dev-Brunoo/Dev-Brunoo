@@ -13,6 +13,6 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
 
 
