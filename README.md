@@ -11,6 +11,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Brunoo30&show_icons=true&theme=radical&width=400" alt="Brunoo30 GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoo30&layout=compact" alt="Top Langs" height="180" />
 <h1></h1>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunoo30}/count.svg" /></p> 
+<br>
+</div>
+<h1></h1>h1>
+
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
 
 [![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-073a99264/)
