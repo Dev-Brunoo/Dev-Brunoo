@@ -13,7 +13,7 @@
 <h1></h1>
 
 <div align="center" style="color=7cfc00;">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunoo30}/count.svg" /></p> 
 <br>
 </div>
