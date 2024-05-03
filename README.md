@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Bruno+Tadeu;I'm+19+years+old;I'm+from+Brazil;I´m+a+Front+End+Developer;Welcome!)](https://git.io/typing-svg)
 <h1></h1>
 
-                                                            <h3> 𝕴𝖋 𝖙𝖍𝖊 𝖕𝖑𝖆𝖓 𝖉𝖔𝖊𝖘𝖓'𝖙 𝖜𝖔𝖗𝖐, 𝖈𝖍𝖆𝖓𝖌𝖊 𝖙𝖍𝖊 𝖕𝖑𝖆𝖓, 𝖓𝖔𝖙 𝖙𝖍𝖊 𝖌𝖔𝖆𝖑.</h3>
+<h3> 𝕴𝖋 𝖙𝖍𝖊 𝖕𝖑𝖆𝖓 𝖉𝖔𝖊𝖘𝖓'𝖙 𝖜𝖔𝖗𝖐, 𝖈𝖍𝖆𝖓𝖌𝖊 𝖙𝖍𝖊 𝖕𝖑𝖆𝖓, 𝖓𝖔𝖙 𝖙𝖍𝖊 𝖌𝖔𝖆𝖑.</h3>
 <h1></h1>
 
 
