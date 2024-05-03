@@ -16,7 +16,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunoo30}/count.svg" /></p> 
 <br>
 </div>
-<h1></h1>h1>
+<h1></h1>
 
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
 
