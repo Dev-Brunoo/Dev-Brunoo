@@ -9,7 +9,7 @@
 <h1></h1>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brunoo30&show_icons=true&theme=radical&width=400" alt="Brunoo30 GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoo30&layout=compact" alt="Top Langs" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Brunoo30&show_icons=true&theme=radical&width=400" alt="Brunoo30 GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoo30&layout=compact" alt="Top Langs" height="180" style="color=;"/>
 <h1></h1>
 
 <div align="center" style="color=7cfc00;">
