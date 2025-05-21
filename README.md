@@ -8,14 +8,14 @@
 <h1></h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Brunoo30&show_icons=true&title_color=7cfc00&icon_color=00ff00&text_color=FFFFFF&bg_color=251D30&width=400" alt="Brunoo30 GitHub stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoo30&layout=compact&title_color=7cfc00&text_color=FFFFFF&bg_color=251D30&" alt="Top Langs" height="180"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Brunoo&show_icons=true&title_color=7cfc00&icon_color=00ff00&text_color=FFFFFF&bg_color=251D30&width=400" alt="Dev-Brunoo GitHub stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Brunoo&layout=compact&title_color=7cfc00&text_color=FFFFFF&bg_color=251D30&" alt="Top Langs" height="180"/> 
 </div>
 
 <h1></h1>
 
 <div align="center" style="color=7cfc00;">
 <br><p align="centre"><b>𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Brunoo30}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Brunoo}/count.svg" /></p> 
 <br>
 </div>
 <h1></h1>
