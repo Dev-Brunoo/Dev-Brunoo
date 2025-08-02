@@ -13,12 +13,6 @@
 
 <h1></h1>
 
-<div align="center" style="color=7cfc00;">
-<br><p align="centre"><b>𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Brunoo}/count.svg" /></p> 
-<br>
-</div>
-<h1></h1>
 
 <h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
 
@@ -27,7 +21,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dev-Brunoo/Dev-Brunoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
 
 
 
