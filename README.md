@@ -5,6 +5,15 @@
 
 
 <h3> - 𝕾𝖞𝖘𝖙𝖊𝖒𝖘 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝕬𝖓𝖆𝖑𝖞𝖘𝖎𝖘 𝕾𝖙𝖚𝖉𝖊𝖓𝖙. 👨‍💻®️</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 <h1></h1>
 
 <div align="center">
@@ -19,9 +28,6 @@
 [![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-073a99264/)
 [![Intagram](		https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dev.brunoo/)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
 
 
 
