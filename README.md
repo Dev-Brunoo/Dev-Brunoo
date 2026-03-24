@@ -1,54 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7cfc00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Bruno+Tadeu;I'm+21+years+old;I'm+from+Brazil;I´m+a+Web-Developer;Welcome!)](https://git.io/typing-svg)
-<h1></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=40&animation=fadeIn"/>
 
 <div align="center">
-        <h3> Full Stack Developer | PHP | JavaScript | Laravel | MySQL </h3>
-</div>
-<h1></h1>
-
-<h3> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:</h3>
-  <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo" />
-          <img width="12" />   
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-          <img width="12" />  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="30" alt="composer logo" />   
-          <img width="12" />
-  </div>
-<h1></h1>
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dev-Brunoo&show_icons=true&title_color=7cfc00&icon_color=00ff00&text_color=FFFFFF&bg_color=251D30&width=400" alt="Dev-Brunoo GitHub stats" height="250" /> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=7cfc00&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+o+Bruno+Tadeu;Desenvolvedor+Full+Stack;Atualmente+focado+em+Java+e+PHP;Seja+bem-vindo!" />
+  </a>
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Brunoo&layout=compact&title_color=7cfc00&text_color=FFFFFF&bg_color=251D30&width=400" alt="Top Langs" height="250"/> 
+  <h3> 🚀 Full Stack Developer | PHP | Laravel | Java (Em progresso ☕) </h3>
+  <p>Apaixonado por tecnologia e focado em construir soluções robustas e escaláveis.</p>
 </div>
-<h1></h1>
 
+<hr>
 
-<h3> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔:</h3>
+### 🛠️ Tecnologias & Ferramentas:
 
-[![Linkendin](		https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tadeu-073a99264/)
-[![Intagram](		https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dev.brunoo/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="35" alt="composer logo" />
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Brunoo&show_icons=true&title_color=7cfc00&icon_color=00ff00&text_color=FFFFFF&bg_color=251D30&hide_border=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Brunoo&layout=compact&title_color=7cfc00&text_color=FFFFFF&bg_color=251D30&hide_border=true" alt="Langs" height="180" />
+</div>
 
+<hr>
 
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/bruno-tadeu-073a99264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_dev.brunoo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
-
-
