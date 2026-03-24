@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=40&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=220&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=40&animation=fadeIn"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,13 +7,12 @@
 </div>
 
 <div align="center">
-  <h3> 🚀 Full Stack Developer | PHP | Laravel | Java (Em progresso ☕) </h3>
-  <p>Apaixonado por tecnologia e focado em construir soluções robustas e escaláveis.</p>
+  <h3>  Full Stack Developer | PHP | Laravel | Java (Em progresso ☕) </h3>
 </div>
 
 <hr>
 
-### 🛠️ Tecnologias & Ferramentas:
+###  Tecnologias & Ferramentas:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -46,7 +45,7 @@
 
 <hr>
 
-### 📫 Vamos nos conectar?
+###  Vamos nos conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-tadeu-073a99264/" target="_blank">
