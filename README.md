@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7cfc00&height=220&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=40&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
