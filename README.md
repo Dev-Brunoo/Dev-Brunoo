@@ -34,11 +34,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Brunoo&show_icons=true&title_color=7cfc00&icon_color=00ff00&text_color=FFFFFF&bg_color=251D30&hide_border=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Brunoo&layout=compact&title_color=7cfc00&text_color=FFFFFF&bg_color=251D30&hide_border=true" alt="Langs" height="180" />
-</div>
-
 <hr>
 
 ###  Vamos nos conectar?
